@@ -52,8 +52,8 @@ a:hover {
 }
 
 section.normal {
-    background-color: #F2EFEB;
-    color: black;
+    background-color: #f2efeb;
+    color: rgb(0, 0, 0)
 }
 
 section{
